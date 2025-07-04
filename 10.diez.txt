@@ -4,7 +4,6 @@ línea 3
 línea 4
 línea 5
 línea 6
-línea 7
 línea 8
 línea 9
 línea 10
@@ -15,7 +14,6 @@ línea 14
 línea 15
 línea 16
 línea 17
-línea 18
 línea 19
 línea 20
 línea 21
@@ -26,5 +24,4 @@ línea 25
 línea 26
 línea 27
 línea 28
-línea 29
 línea 30
