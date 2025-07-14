@@ -1,2 +1,2 @@
-aaaaaaaaaaa
-aaaaaaaaaaa
+línea 1
+línea 2
