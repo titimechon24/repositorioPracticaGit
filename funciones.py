@@ -1,3 +1,3 @@
-def saludar(nombre):
-
-  return f"¡Hola, {nombre}! ¿Cómo estás?"
+línea 1
+línea 2
+línea 3
