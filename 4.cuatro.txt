@@ -1,5 +1,5 @@
 revertir
 revertir
 línea modificada
-línea modificada
-línea modificada
+HEAD
+HEAD
