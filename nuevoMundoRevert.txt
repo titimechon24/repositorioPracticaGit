@@ -1,2 +1,2 @@
-línea 1
-línea modificada en rama probando-restore
+línea modificada
+línea modificada
