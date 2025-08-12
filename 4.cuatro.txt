@@ -1,11 +1,5 @@
 commit padre
-commit padre
-commit padre
-commit padre
 
 revertir
 
-commit padre
-commit padre
-commit padre
 commit padre
