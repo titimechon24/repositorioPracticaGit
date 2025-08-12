@@ -1,5 +1,8 @@
-línea modificada
-revert
-revert
-commit posterior
+commit padre
+commit padre
+commit padre
 
+
+commit padre
+commit padre
+commit padre
