@@ -1,7 +1,3 @@
-commit padre
-commit padre
-commit padre
-
 
 commit padre
 commit padre
